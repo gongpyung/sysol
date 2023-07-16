@@ -1,4 +1,4 @@
-package Process_Thread;
+package edu.Process_Thread;
 
 class ThreadClass2T implements Runnable {
 	public void run() {

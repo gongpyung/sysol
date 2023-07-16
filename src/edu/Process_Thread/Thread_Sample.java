@@ -1,4 +1,4 @@
-package Process_Thread;
+package edu.Process_Thread;
 
 public class Thread_Sample {
 

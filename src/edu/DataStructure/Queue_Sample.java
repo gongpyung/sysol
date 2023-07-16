@@ -1,4 +1,4 @@
-package DataStructure;
+package edu.DataStructure;
 import java.util.LinkedList;
 import java.util.Queue;
 

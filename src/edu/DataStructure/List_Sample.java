@@ -1,4 +1,4 @@
-package DataStructure;
+package edu.DataStructure;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package Process_Thread;
+package edu.Process_Thread;
 
 import java.io.IOException;
 import java.io.InputStream;

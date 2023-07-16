@@ -1,4 +1,4 @@
-package Process_Thread;
+package edu.Process_Thread;
 
 class ThreadClassT extends Thread {
 	// Thread가 실행되면 run() 호출
